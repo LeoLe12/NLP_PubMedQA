@@ -103,5 +103,5 @@ We built a **multimodal chatbot** that:
 | Semi-Supervised | 93% | High-confidence pseudo-labeling |
 
 ## 🤝 Contributors
- MOIANA Laura, FRAGERI Martina, GUAZZI Alessandro, LEI Leonardo, MANTEGAZZA Niccolò, 
+ MOIANA Laura, FRAGERI Martina, GUAZZI Alessandro, LEI Leonardo, MANTEGAZZA Niccolò
 
